@@ -79,10 +79,13 @@ p {
   justify-content: start;
   align-items: center;
   gap: 0.75rem;
+  width: 129px;
+  height: 32px;
 }
 
 .person > h4 {
   font-weight: 800;
+  font-size: .875rem;
 }
 
 @media (min-width: 90rem) {
