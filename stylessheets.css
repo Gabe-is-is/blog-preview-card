@@ -85,7 +85,7 @@ p {
 
 .person > h4 {
   font-weight: 800;
-  font-size: .875rem;
+  font-size: 0.875rem;
 }
 
 @media (min-width: 90rem) {
@@ -95,8 +95,9 @@ p {
   }
 
   .main-image img {
-    width: 100%;
-    height: auto;
+    width: 336px;
+    height: 200px;
+    object-fit: cover;
   }
 
   .the-h1 {
