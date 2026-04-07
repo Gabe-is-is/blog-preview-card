@@ -84,8 +84,8 @@ p {
   justify-content: start;
   align-items: center;
   gap: 0.75rem;
-  width: 129px;
-  height: 32px;
+  width: 8.0625rem;
+  height: 2rem;
 }
 
 .person > h4 {
