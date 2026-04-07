@@ -98,6 +98,7 @@ p {
     width: 336px;
     height: 200px;
     object-fit: cover;
+    border-radius: .625rem;
   }
 
   .the-h1 {
