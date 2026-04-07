@@ -96,7 +96,7 @@ p {
 @media (min-width: 90rem) {
   main {
     width: 24rem;
-    height: auto;
+    height: 32.625rem;
   }
 
   .main-image img {
