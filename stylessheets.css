@@ -44,7 +44,6 @@ main {
 
 .main-image {
   margin-bottom: 1.5rem;
-  object-position: top;
 }
 
 h1 {
@@ -98,15 +97,11 @@ p {
 @media (min-width: 90rem) {
   main {
     width: 24rem;
-    height: 32.625rem;
+    height: auto;
   }
 
   .main-image img {
-    width: 21rem;
-    height: 12.5rem;
-    object-fit: cover;
-    border-radius: 0.625rem;
-    object-position: top;
+    width: 100%;
   }
 
   .the-h1 {
